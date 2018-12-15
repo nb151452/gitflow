@@ -1,0 +1,27 @@
+ 
+ mkdir gl2l2
+ cd gl2l2
+ git remote add github
+ git init
+ git remote add github
+ git init https://github.com/nb151452/gitflow.git
+ git status
+ git config --global user.name wertyq4312
+ git config --global user.email nikita.vzb@gmail.com
+ cd
+ mkdir clone
+ cd clone
+ git clone https://github.com/nb151452/gitflow.git
+ git init
+ cd gitflow
+ git checkout -b feature/werty
+ git branch
+ git init
+ cat werty.txt
+ git branch
+ git push origin
+ git add werty.txt
+ git commit -m "1"
+ git push origin
+ history
+
