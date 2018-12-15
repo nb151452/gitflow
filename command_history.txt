@@ -1,0 +1,10 @@
+mkdir git_lab2_lesson2
+cd git_lab2_lesson2
+git clone https://github.com/nb151452/gitflow
+cd gitflow
+git checkout -b feature/userMichael
+cat > Michael.txt
+git add Michael.txt
+git commit -a -m 'Коммит с именем'
+git brancр
+git push origin
