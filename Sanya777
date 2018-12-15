@@ -1,0 +1,14 @@
+  125  mkdir git_lab2_lesson2
+  126  cd  git_lab2_lesson2
+  128  git init
+  129  git remote add github https://github.com/nb151452/gitflow.git
+  130  mkdir git_repository_clone
+  131  cd git_repository_clone
+  133  git init
+  135  git checkout -b feature/userSanya777
+  137  cat > Sanya777.txt
+  138  git add Sanya777.txt
+  140  git commit -m Sanya777.txt
+  144  cd ..
+  145  history
+
