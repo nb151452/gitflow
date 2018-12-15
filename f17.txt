@@ -1,0 +1,23 @@
+
+   94  mkdir git_lab2_lesson2_clone
+   95  cd git_lab2_lesson2_clone
+   96  git clone
+   97  http://github.com/nb151452/gitflow.git
+   98  git clone http://github.com/nb151452/gitflow.git
+   99  mkdir git_lab2_lesson2
+  100  cd git_lab2_lesson2
+  101  git clone http://github.com/nb151452/gitflow.git
+  102  git checlout -b feature/mrzvs
+  103  git checkout -b feature/mrzvs
+  104  git ls
+  105  cd gitflow
+  106  git checkout -b feature/mrzvs
+  107  git push origin
+  108  git log
+  109  git branch
+  110  cat > Sasha.txt
+  111  git add Sasha.txt
+  112  git commit -a -m  Sasha.txt
+  113  git branch 
+  114  git push origin
+  115  history
