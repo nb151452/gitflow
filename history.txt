@@ -1,0 +1,39 @@
+ mkdir git_lab2_lesson2
+   93  cd git_lab2_lesson2
+   94  git clone https://github.com/nb151452/gitflow
+   95  git checkout -b
+   96  git checkout -b feature/userBulates11
+   97  git checkout -b fetch/userBulates11
+   98  cd gitflow
+   99  git checkout
+  100  git checkout feature/userBulates11
+  101  git checkout -b  feature/userBulates11
+  102  git push origin
+  103  git branch
+  104  cat > Bulates.txt
+  105  cat Bulates.txt
+  106  git push origin
+  107  cat Bulatrs
+  108  cat Bulates.txt
+  109  git add Bulates.txt
+  110  git commit -a -m  Bulates.txt
+  111  git config --global user.email 'dolar.happy@gmail.com'
+  112  git config --global user.name
+  113  bulates11
+  114  git config --global user.email 
+  115  git config --global user.name 
+  116  git config --global user.name "Bulates"
+  117  cd git_lab2_lesson2
+  118  git clone https://github.com/nb151452/gitflow.git
+  119  cd gitflow
+  120  git checkout
+  121  git checkout -b feature/userBulates11
+  122  git add name
+  123  git commit -a -m '1 commit'
+  124  git push origin
+  125  git branch
+  126  ls
+  127  git push origin
+  128  git push --set-upstream origin feature/userBulates11
+  129  hisory
+  130  history
