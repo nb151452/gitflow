@@ -1,0 +1,16 @@
+  155  mkdir git_lab2_lesson2
+  156  cd git_lab2_lesson2
+  157  git clone https://github.com/nb151452/gitflow.git
+  158  git checkout -b feature/userTim
+  159  cd gitflow
+  160  git checkout -b feature/userTim
+  161  git log
+  162  git branch
+  163  cat > Tim.txt
+  164  git add Tim.txt
+  165  git commit -a -m Tim.txt
+  166  git branch
+  167  git log
+  168  git push origin
+  169  history
+
