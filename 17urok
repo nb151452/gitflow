@@ -1,0 +1,11 @@
+git init
+mkdir git_lab2_lesson2
+cd git_lab2_lesson2
+git clone https://github.com/nb151452/gitflow.git
+cd gitflow
+git checkout -b feature/Homaemilius
+git add name
+git commit -a -m 'New commit'
+git push origin
+history
+
